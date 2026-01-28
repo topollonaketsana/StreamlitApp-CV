@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+#import plotly.express as px
 import os
 
 
@@ -139,6 +139,12 @@ st.write("""
 - Open-source contributions
 - Scientific literature and conferences
 """)
+
+
+
+# set an image
+#st
+
 
 # Footer
 st.markdown("---")
